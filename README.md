@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m a Mechanical Engineering graduate currently pursuing
 
 ## 🔬 Current Research & Occupation
 
-### 🌍 Research Assistant @ TUM – Heat2Q Project
+### 🌍 Research Assistant @ TUM – Heat2Q Projects
 
 Supporting neighborhood energy optimization to meet Germany's decarbonization goals.
 
