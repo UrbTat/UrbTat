@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a Mechanical Engineering graduate currently pursuing
 
 * **Programming Languages:** Python, MATLAB, Modelica
 * **Technologies & Frameworks:**
-  Scikit-learn, PyTorch, XGBoost, TESpy, FLORIS, LandBOSSE, pandapower, PYOMO, SciPy, NumPy, Pandas, Matplotlib, Seaborn...
+  Scikit-learn, PyTorch, XGBoost, TESPy, FLORIS, LandBOSSE, pandapower, PYOMO, SciPy, NumPy, Pandas, Matplotlib, Seaborn...
 * **Tools & Platforms:** Git, SolidWorks, AutoCAD, QGIS, LaTeX
 
 
@@ -44,8 +44,8 @@ Supporting neighborhood energy optimization to meet Germany's decarbonization go
 
 ### ☀️ Advanced Seminar – Thermal Energy Systems
 
-* Modeled thermodynamic cycles for solar thermal plants
-* Performed parametric studies and optimization using **TESpy**
+* Modeled thermodynamic cycles for solar thermal plants [CSP_with_TESPy](https://github.com/UrbTat/CSP_with_TESPy)
+* Performed parametric studies and optimization using **TESPy**
 
 ### 🌬️ Lab in Wind Farm Design
 
